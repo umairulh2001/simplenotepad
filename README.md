@@ -1,8 +1,7 @@
 # Simple PHP Notepad
 
 ## 🔗 Links
-
-[![Hosted Version](https://zipurl.net/simplenotepad)]
+[Hosted Version](https://zipurl.net/simplenotepad)
 
 
 ## Usage
