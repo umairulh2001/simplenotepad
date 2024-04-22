@@ -1,7 +1,7 @@
 # Simple Online Notepad
 
 ## 🔗 Links
-[Hosted Version](https://zipurl.net/simplenotepad)
+[Hosted Version (Demo)](https://zipurl.net/simplenotepad)
 
 
 ## Usage
