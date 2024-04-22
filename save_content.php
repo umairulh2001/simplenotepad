@@ -1,5 +1,9 @@
 <?php
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+	
+    if (!is_dir('_notes'))
+        mkdir('_notes');
+	
     // Get the content from the POST data
     $content = $_POST['content'];
 	$filename = $_POST['filename'];
