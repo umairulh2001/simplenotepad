@@ -3,6 +3,8 @@
 ## 🔗 Links
 [Hosted Version (Demo)](https://zipurl.net/simplenotepad)
 
+## Dependencies
+- [TinyMCE](https://www.tiny.cloud/docs/tinymce/latest/php-projects/)
 
 ## Usage
 - Upload **index.php** and **save_content.php** inside a folder on your server
