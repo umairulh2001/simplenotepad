@@ -1,7 +1,7 @@
 # Simple Online Notepad
 
 ## 🔗 Links
-[Hosted Version](https://zipurl.net/simplenotepad)
+[Hosted Version](https://z1p.site/simplenotepad)
 
 ## Dependencies
 - [TinyMCE](https://www.tiny.cloud/docs/tinymce/latest/php-projects/)
